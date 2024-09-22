@@ -7,9 +7,7 @@
         "Me!"
     ],
     "description": "Describe what is your script about!",
-    "entryPoints": [
-        "test/TestEntry"
-    ],
+    "entryPoints": [],
     "modules": [
         "@minecraft/server@1.14.0",
         "@minecraft/server-ui@1.3.0"
