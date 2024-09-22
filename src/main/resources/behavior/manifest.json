@@ -1,10 +1,10 @@
 {
      "format_version": 2,
      "header": {
-          "name": "@teseract/sculk-loom-template",
+          "name": "@teseract/vanilla-loom",
           "description": "Project Description",
           "version": "1.0.0",
-          "uuid": "5861555e-1675-44a5-b714-9c670aaf97bf",
+          "uuid": "738fe100-13c8-4f69-baa7-cdf4fd47f326",
           "min_engine_version": [
                1,
                21,
@@ -15,7 +15,7 @@
           {
                "type": "data",
                "description": "",
-               "uuid": "09e2a89f-2e0d-4203-80b9-a84c189f93cb",
+               "uuid": "7a1123ce-83e1-46b9-874c-d9568b5f85bd",
                "version": "1.0.0"
           }
      ],
