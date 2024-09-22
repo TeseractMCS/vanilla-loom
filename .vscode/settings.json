@@ -2,8 +2,8 @@
     "json.schemas": [
         {
             "fileMatch": [
-                "teseract.plugin.{json,jsonc,json5}",
-                "teseract.plugin.json"
+                "teseract.script.{json,jsonc,json5}",
+                "teseract.script.json"
             ],
             "url": "https://raw.githubusercontent.com/TeseractMCS/teseract-schemas/refs/heads/main/regolith/teseract-plugin/v2.0.json"
         },
